@@ -1,4 +1,4 @@
-"""s="VIT"
+s="VIT"
 t="Bhimavaram"
 print(s+' '+t)
 #triangular stars
@@ -12,7 +12,8 @@ for i in range(n+1):
        print(" ",end="")
     for k in range(2*i-1):
        print("*",end="")
-    print()"""
+    print()
+
 #string slicing
 s="Thanishka"
 t="Obilisetti"
